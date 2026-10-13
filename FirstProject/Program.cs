@@ -16,7 +16,7 @@ namespace FirstProject
             int a = 30;
             int b = 50;
             int c = a + b;
-            Console.WriteLine(c)
+            Console.WriteLine(c);
         }
     }
 }
